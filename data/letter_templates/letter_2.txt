@@ -1,7 +1,6 @@
-Hey [NAME],
+Olá [NAME],
 
-Happy birthday! Have a wonderful time today and eat lots of cake!
+Muitos parabéns pelos teus [AGE] anos! Aproveita o dia ao máximo e não te esqueças do bolo.
 
-Lots of love,
-
-Angela
+Um beijinho,
+Alice

@@ -1,7 +1,6 @@
-Dear [NAME],
+Olá [NAME],
 
-It's your birthday! Have a great day!
+Parabéns pelos teus [AGE] anos! Que o teu dia seja cheio de alegria.
 
-All my love,
-
-Angela
+Com todo o meu carinho,
+Alice

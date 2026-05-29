@@ -1,7 +1,7 @@
-Dear [NAME],
+Olá [NAME],
 
-Happy birthday!
+Muitos parabéns pelos teus [AGE] anos!
 
-All the best for the year!
+Que este novo ano te traga saúde, alegria e conquistas.
 
-Angela
+Alice
